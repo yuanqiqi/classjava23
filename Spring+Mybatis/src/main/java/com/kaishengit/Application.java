@@ -1,4 +1,4 @@
-package com.kaishengit;//哈哈哈
+package com.kaishengit;
 
 import java.io.IOException;
 import java.util.Properties;
